@@ -1,0 +1,92 @@
+import * as React from 'react';
+import Head from 'next/head'
+import Image from 'next/image'
+import axios from 'axios'
+import styles from '/styles/valj_vaxt.module.css'
+import Button from '@mui/material/Button';
+import { fontWeight } from '@mui/system';
+import Box from '@mui/material/Box';
+import { ArrowBack } from '@material-ui/icons';
+import { Fab } from '@mui/material';
+import { Add } from '@material-ui/icons';
+export default function valj_vaxt() {
+
+    const button1 = {
+        background: 'green',
+        border: 0,
+        borderRadius: 10,
+        boxShadow: '0 2px 5px 2px rgba(104, 190, 38, .3)',
+        color: 'white',
+        height: 48,
+        padding: '0 30px',
+        fontWeight:'bold',
+        m:7,
+        
+    };
+    const box1 = {
+        bgcolor: 'beige',
+        minHeight:'15vh',
+        border: 1 ,
+        borderColor:'gray' ,
+        padding: '5px 5px',
+        borderRadius: 2,
+        color:'gray',
+        m:1,
+
+      
+    };
+    const boxtop = {
+        
+     
+        height:'30vh',
+        color:'gray',
+        fontWeight:'bold',
+        color:'gray',
+        border: 1 ,
+        m:0,
+        p:0,
+    };
+    const fab = {
+        fontWeight:'bold',
+        m:0.5,
+        background: 'green',
+    };
+
+
+  return (
+
+
+<>
+    
+   
+
+
+   <Box sx={boxtop}>
+   <Fab color="primary" aria-label="add" size="small" sx={fab}>
+  <ArrowBack />
+</Fab>
+   </Box>
+
+
+  
+
+    <div className={styles.middle}>
+        <h3>Information</h3>
+        <Box  sx={box1}>Hej det här är en box Hej det här är en box Hej det här är en box Hej det här är en box</Box>
+        <Box  sx={box1}>Hej det här är en box Hej det här är en box Hej det här är en box Hej det här är en box</Box>
+        <Box  sx={box1}>Hej det här är en box Hej det här är en box Hej det här är en box Hej det här är en box</Box>
+      
+
+    </div>
+
+    <div className={styles.bottom}>
+
+        <Button sx={button1}
+    variant="contained" endIcon={<Add />}>Lägg till</Button>
+
+    </div>
+
+
+</>
+    )
+}

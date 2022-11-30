@@ -1,0 +1,17 @@
+
+[   {"titel": "WELCOME", 
+    "text": "GrowUp is created by 6 students from Linköping's university. It offers everything you could want from a plant care app and education purposes.",
+     "image":"plant1.gif"},
+
+    {"titel": "NO MORE",
+    "text": "Forgetting to water your plants and how fun it is to see your plant grow up well. Update the growth in your diary!", 
+    "image":"plant3.gif"},
+
+    {"titel": "NEW FEATURE", 
+    "text": "Dont know the name of a plant? No problem, test our image recognition to identify!", 
+    "image":"plant4.gif"},
+
+    {"titel": "READY... GO!", 
+    "text": "Start your plant adventure here!", 
+    "image":"plant2.gif"}
+]

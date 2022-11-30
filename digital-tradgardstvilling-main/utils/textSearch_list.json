@@ -1,0 +1,453 @@
+{
+    "plants": [
+        { 
+            "id": "0",
+            "plantName": "African Violet",
+            "scientificName": "Saintpaulia",
+            "categories": [
+                "flowering"
+            ],
+            "picture": "https://i.pinimg.com/736x/2c/2e/b3/2c2eb3daf61e7c4e5655ace43b100e05.jpg"
+        },
+        {
+            "id": "1",
+            "plantName": "Air plant",
+            "scientificName": "Tillandsia",
+            "categories": [
+                "easy"
+            ],
+            "picture": "https://www.allaboutgardening.com/wp-content/uploads/2021/11/How-Long-Do-Air-Plants-Live.jpg"
+        },
+        {
+            "id": "2",
+            "plantName": "Aloe Vera",
+            "scientificName": "Aloe Vera",
+            "categories": [
+                "easy",
+                "cacti"
+            ],
+            "picture": "https://www.erbedimauro.it/1299-thickbox_default/aloe-vera-plant-with-flower.jpg"
+        },
+        {
+            "id": "3",
+            "plantName": "Anthurium",
+            "scientificName": "Anthurium andraeanum",
+            "categories": [
+                "flowering"
+            ],
+            "picture": "https://www.thespruce.com/thmb/AaaHo9Ip-KzKke9WKqOAfSYi5tY=/2091x2091/smart/filters:no_upscale()/grow-anthurium-plants-1902738-11-3d277f29cd8a4ef082f9788f705896bc.jpg"
+        },
+        {
+            "id": "4",
+            "plantName": "Basil",
+            "scientificName": "Ocimum basilicum",
+            "categories": [
+                "herbs"
+            ],
+            "picture": "https://i.pinimg.com/originals/65/42/29/654229019e429a65654c9fac710cad84.jpg"
+        },
+        {
+            "id": "5",
+            "plantName": "Boston Fern",
+            "scientificName": "Nephrolepis exaltata",
+            "categories": [
+            ],
+            "picture": "https://cf.ltkcdn.net/garden/images/orig/273562-1600x1066-boston-fern.jpg"
+        },
+        {
+            "id": "6",
+            "plantName": "Bunny Ear Cactus",
+            "scientificName": "Opuntia microdasys",
+            "categories": [
+                "cacti"
+            ],
+            "picture": "https://images.squarespace-cdn.com/content/v1/55d143f0e4b0d49a516f32a9/1596319940898-D4HMT75KOXZ0F0U0PD3Y/bunny+ear+cactus.jpg?format=1000w"
+        },
+        {
+            "id": "7",
+            "plantName": "Burro's Tail",
+            "scientificName": "Sedum morganianum",
+            "categories": [
+                "cacti"
+            ],
+            "picture": "https://www.gardeningknowhow.com/wp-content/uploads/2012/03/burros-tail-1.jpg"
+        },
+        {
+            "id": "8",
+            "plantName": "Calathea",
+            "scientificName": "Calathea Ornata",
+            "categories": [
+            ],
+            "picture": "https://a.allegroimg.com/original/11abc5/949c1ef84f16a53f6f28fcb6af21"
+        },
+        {
+            "id": "9",
+            "plantName": "Chin Cactus",
+            "scientificName": "Gymnocalycium",
+            "categories": [
+                "cacti"
+            ],
+            "picture": "https://worldofsucculents.com/wp-content/uploads/2013/05/Gymnocalycium-baldianum.jpg"
+        },
+        {
+            "id": "10",
+            "plantName": "Chinese Evergreen",
+            "scientificName": "Aglaonema commutatum",
+            "categories": [
+            ],
+            "picture": "https://www.avasflowers.net/img/prod_img/avasflowers-chinese-evergreen-plant.jpg"
+        },
+        {
+            "id": "11",
+            "plantName": "Chinese Money Plant",
+            "scientificName": "Pilea peperomioides",
+            "categories": [
+                "easy"
+            ],
+            "picture": "https://housefur.com/wp-content/uploads/2021/05/Pilea-Peperomioides-1.jpg"
+        },
+        {
+            "id": "12",
+            "plantName": "Chives",
+            "scientificName": "Allium schoenoprasum",
+            "categories": [
+                "herbs"
+            ],
+            "picture": "https://artesanato.dicasereviews.com/wp-content/uploads/2021/08/1628985019_376_preMini-jardim-em-casa-com-ervas-culinarias-para-realcar-o-sabor-das-suas-refeicoes.jpg"
+        },
+        {
+            "id": "13",
+            "plantName": "Crown of Thorns ",
+            "scientificName": "Euphorbia milii",
+            "categories": [
+                "flowering"
+            ],
+            "picture": "https://i.pinimg.com/originals/a8/6e/ae/a86eaee78bc3aea4b1a1c481af0796fc.jpg"
+        },
+        {
+            "id": "14",
+            "plantName": "Dieffenbachia",
+            "scientificName": "Dieffenbachia seguine",
+            "categories": [
+            ],
+            "picture": "https://greenladybug.com/161-large_default/dieffenbachia.jpg"
+        },
+        {
+            "id": "15",
+            "plantName": "Dragon Tree",
+            "scientificName": "Dracaena marginata",
+            "categories": [ 
+                "easy"
+            ],
+            "picture": "https://images.squarespace-cdn.com/content/v1/57aa04bed482e969a623b7fa/1569417113374-NQTB8MY17TEHPXSEF2OH/Dragontree+Plant+-+easy+to+grow+indoor+plant "
+        },
+        {
+            "id": "16",
+            "plantName": "Easter Cactus",
+            "scientificName": "Hatiora gaertneri",
+            "categories": [ 
+                "cacti"
+            ],
+            "picture": "https://www.thespruce.com/thmb/mSvIalHAxAIoimPcgATTllryS3Q=/1885x1414/smart/filters:no_upscale()/GettyImages-1301003778-c99a99d95bab49e3a318eda3f19c5d16.jpg"
+        },
+        {
+            "id": "17",
+            "plantName": "English Ivy",
+            "scientificName": "Hedera helix",
+            "categories": [ 
+            ],
+            "picture": "https://cdn.apartmenttherapy.info/image/upload/v1626827816/gen-workflow/product-database/english-ivy-amazon.jpg"
+        },
+        {
+            "id": "18",
+            "plantName": "Flaming Katy",
+            "scientificName": "Kalanchoe",
+            "categories": [ 
+                "cacti",
+                "flowering"
+            ],
+            "picture": "https://img.lrgarden.cn/feed_pic/47/59/1000350767_1000013406_1506339067.jpg?301"
+        },
+        {
+            "id": "19",
+            "plantName": "Golden Barrel Cactus",
+            "scientificName": "Echinocactus grusonii",
+            "categories": [ 
+                "cacti"
+            ],
+            "picture": "https://www.plantshop.me/media/product/golden_barrel_cactus_indoor.jpg"
+        },
+        {
+            "id": "20",
+            "plantName": "Golden Pothos",
+            "scientificName": "Epipremnum aureum",
+            "categories": [ "easy"
+            ],
+            "picture": "https://koboguide.com/wp-content/uploads/2021/01/1603654968-il_570xN.2485154742_kpa5.jpg"
+        },
+        {
+            "id": "21",
+            "plantName": "Heartleaf Philodendron",
+            "scientificName": "Philodendron hederaceum",
+            "categories": [ "easy"
+            ],
+            "picture": "https://www.teakandterracotta.com/wp-content/uploads/2021/04/Heartleaf-Philodendron-2.jpg"
+        },
+        {
+            "id": "22",
+            "plantName": "Rubber Plant",
+            "scientificName": "Ficus elastica",
+            "categories": [ ""
+            ],
+            "picture": "https://cdn5.shoppy.mn/img/30803/original/1557256241-pot-plant-close-up-elevated-view-high-res-stock-photography-829464-001-1557256205.jpg"
+        },
+        {
+            "id": "23",
+            "plantName": "Jade Plant",
+            "scientificName": "Crassula ovata",
+            "categories": [ "cacti", "easy"
+            ],
+            "picture": "https://www.gardeningknowhow.com/wp-content/uploads/2010/01/jade-plant-1.jpg"
+        },
+        {
+            "id": "24",
+            "plantName": "Lady Palm",
+            "scientificName": "Rhapis excelsa",
+            "categories": [ ""
+            ],
+            "picture": "https://plantingman.com/wp-content/uploads/2017/11/Lady-Palm-Indoor-House-Plant.jpeg"
+        },
+        {
+            "id": "25",
+            "plantName": "Lavender",
+            "scientificName": "Lavandula",
+            "categories": [ "herbs"
+            ],
+            "picture": "https://www.gardenerreport.com/wp-content/uploads/2019/12/0_InShot_20191224_185634859-1.jpg"
+        },
+        {
+            "id": "26",
+            "plantName": "Lucky Bamboo",
+            "scientificName": "Dracaena sanderiana",
+            "categories": [ ""
+            ],
+            "picture": "https://www.joyusgarden.com/wp-content/uploads/2020/12/common-houseplants-lucky-bamboo-683x1024.jpg"
+        },
+        {
+            "id": "27",
+            "plantName": "Mint",
+            "scientificName": "Mentha",
+            "categories": [ "herbs"
+            ],
+            "picture": "https://cf.shopee.co.th/file/f7dcd8328ecfbc2b4cfd53ae61c07b48"
+        },
+        {
+            "id": "28",
+            "plantName": "Money Tree",
+            "scientificName": "Pachira aquatica",
+            "categories": [ ""
+            ],
+            "picture": "https://www.savillefurniture.com/wp-content/uploads/2019/03/indoor-plants-1.jpg"
+        },
+        {
+            "id": "29",
+            "plantName": "Moth Orchid",
+            "scientificName": "Phalaenopsis",
+            "categories": [ "flowering"
+            ],
+            "picture": "https://i.pinimg.com/originals/d1/51/dc/d151dc395f514bd0bbac3a5a0592b915.jpg"
+        },
+        {
+            "id": "30",
+            "plantName": "Oregano",
+            "scientificName": "Origanum vulgare",
+            "categories": [ "herbs"
+            ],
+            "picture": "https://i.designideashome.com/images/001/image-625.jpg"
+        },
+        {
+            "id": "31",
+            "plantName": "Parsley",
+            "scientificName": "Petroselinum crispum",
+            "categories": [ "herbs"
+            ],
+            "picture": "https://www.gardeningknowhow.com/wp-content/uploads/2020/11/parsley-in-a-flowerpot.jpg"
+        },
+        {
+            "id": "32",
+            "plantName": "Peace Lily",
+            "scientificName": "Spathiphyllum",
+            "categories": [ "easy" , "flowering"
+            ],
+            "picture": "https://i.pinimg.com/originals/ea/f8/cf/eaf8cf9eb0f999570c87bf33d834a2bd.jpg"
+        },
+        {
+            "id": "33",
+            "plantName": "Baby Rubberplant",
+            "scientificName": "Peperomia Obtusifolia",
+            "categories": [ ""
+            ],
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Peperomia_obtusifolia_3-OB9.jpg/1200px-Peperomia_obtusifolia_3-OB9.jpg"
+        },
+        {
+            "id": "34",
+            "plantName": "Pincushion Cactus",
+            "scientificName": "Mammillaria",
+            "categories": [ "cacti", "flowering"
+            ],
+            "picture": "https://www.kellogggarden.com/wp-content/uploads/2021/06/Growing-Pincushion-Cactus.jpg"
+        },
+        {
+            "id": "35",
+            "plantName": "Ponytail Palm",
+            "scientificName": "Beaucarnea recurvata",
+            "categories": [ ""
+            ],
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1557256823-beaucarnea-recurvata-ponytail-palm-1557256813.jpg"
+        },
+        {
+            "id": "36",
+            "plantName": "Rosemary",
+            "scientificName": "Salvia rosmarinus",
+            "categories": [ "herbs"
+            ],
+            "picture": "https://www.gardeningknowhow.com/wp-content/uploads/2020/11/one-fresh-potted-rosemary-herb.jpg"
+        },
+        {
+            "id": "37",
+            "plantName": "Satin Pothos",
+            "scientificName": "Scindapsus pictus",
+            "categories": [ "easy"
+            ],
+            "picture": "https://www.thespruce.com/thmb/nmd5-IsFJU9UPdUC4arYTUHRvMM=/4189x2792/filters:no_upscale():max_bytes(150000):strip_icc()/growing-satin-pothos-5114102-hero-9415effa5b9b44d6918731503ec76b6f-c89ae80b4458446ea873712de1e43e13.jpeg"
+        },
+        {
+            "id": "38",
+            "plantName": "Umbrella Tree",
+            "scientificName": "Schefflera amate",
+            "categories": [ ""
+            ],
+            "picture": "https://www.joyusgarden.com/wp-content/uploads/2018/08/Schefflera-Amate-5.png"
+        },
+        {
+            "id": "39",
+            "plantName": "String of Pearls",
+            "scientificName": "Senecio rowleyanus",
+            "categories": [ ""
+            ],
+            "picture": "https://media.blomsterfamiljen.se/2020/12/Senecio-rowleyanus-vuxen-planta-2.jpg"
+        },
+        {
+            "id": "40",
+            "plantName": "Snake Plant",
+            "scientificName": "Dracaena trifasciata",
+            "categories": [ "cacti", "easy"
+            ],
+            "picture": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_snake-plant-laurentii_variant_small_grow-pot_none_2429b6c4-715f-460c-bf9b-d4355f6154fc.jpg?v=1646670656"
+        },
+        {
+            "id": "41",
+            "plantName": "Spider Plant",
+            "scientificName": "Chlorophytum comosum",
+            "categories": [ "easy"
+            ],
+            "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F09%2F14%2Fvariegated-spider-plant-efd23956.jpg"
+        },
+        {
+            "id": "42",
+            "plantName": "Star Cactus",
+            "scientificName": "Astrophytum asterias",
+            "categories": [ "cacti"
+            ],
+            "picture": "https://succulentcity.com/wp-content/uploads/2019/07/star-cactus-top-sc-819x1024.jpg"
+        },
+        {
+            "id": "43",
+            "plantName": "Swiss Cheese Plant",
+            "scientificName": "Monstera deliciosa",
+            "categories": [ ""
+            ],
+            "picture": "https://kozel-bier.at/img/indoor-gardening/25/5-houseplants-that-grow-tall.jpg"
+        },
+        {
+            "id": "44",
+            "plantName": "Swiss Cheese Vine",
+            "scientificName": "Monstera adansonii",
+            "categories": [ ""
+            ],
+            "picture": "https://i.pinimg.com/originals/2a/74/5e/2a745eefdadb1c46fd3e59a0f81513a9.jpg"
+        },
+        {
+            "id": "45",
+            "plantName": "Thyme",
+            "scientificName": "Thymus vulgaris",
+            "categories": [ "herbs"
+            ],
+            "picture": "https://www.gardeningknowhow.com/wp-content/uploads/2020/11/potted-thyme-plant.jpg"
+        },
+        {
+            "id": "46",
+           "plantName": "Weeping fig",
+            "scientificName": "Ficus benjamina",
+            "categories": [ ""
+            ],
+            "picture": "https://mangomeadows.in/nursery/wp-content/uploads/2020/10/mangomeadows-nursery-plants-ficus-benjamina-weeping-fig-plant-16968856207500_600x600.jpg"
+        },
+        {
+            "id": "47",
+            "plantName": "Spineless Yucca",
+            "scientificName": "Yucca gigantea",
+            "categories": [ ""
+            ],
+            "picture": "https://odla.blob.core.windows.net/images/krukvaxter%2Fimages%2Fbilder%2Fyucca_elephantipes.jpg "
+        },
+        {
+            "id": "48",
+            "plantName": "Geranium",
+            "scientificName": "Pelargonium",
+            "categories": [ "flowering", "easy"
+            ],
+            "picture": "https://i.pinimg.com/736x/38/e8/58/38e8580bbfa2b1d1f63043eefde6c77f.jpg"
+        },
+        {
+            "id": "49",
+            "plantName": "Zz Plant",
+            "scientificName": "Zamioculcas",
+            "categories": [ "cacti", "easy"
+            ],
+            "picture": "https://budsnblush.com/wp-content/uploads/2017/07/774db0706fde747de6a1e0965addc0d5_compress62.jpg"
+        },
+        {
+            "id": "50",
+            "plantName": "Fiddle Leaf Fig",
+            "scientificName": "Ficus lyrata",
+            "categories": [ 
+            ],
+            "picture": "https://www.gardendesign.com/pictures/images/230x300Exact_0x34/site_3/fiddle-leaf-fig-tree-houseplant-ficus-lyrata-shutterstock-com_14892.jpg"
+        },
+        {
+            "id": "51",
+            "plantName": "Amaryllis",
+            "scientificName": "Hippeastrum",
+            "categories": [ "flowering"
+            ],
+            "picture": "https://www.blomsterlandet.se/f637a043/contentassets/caf6fd1e72cd483fb7316f4dc36bf60e/amaryllis-flera.jpg"
+        },
+        {
+            "id": "52",
+            "plantName": "Chrysanthemum",
+            "scientificName": "Chrysanthemum",
+            "categories": [ "flowering"
+            ],
+            "picture": "https://www.impecta.se/bilder/artiklar/zoom/85_1.jpg?m=1643699825"
+        },
+        {
+            "id": "53",
+            "plantName": "Painted Nettle",
+            "scientificName": "Coleus scutellarioides",
+            "categories": [ "flowering", "easy"
+            ],
+            "picture": "https://www.blomsterlandet.se/optimized/c-ArticleHead-Default-Sm2x/c1fc1407/contentassets/ef4f9042b25e406ca70c32af4b9f86a2/26084344-palettblad.jpg"
+        }
+    ]
+}
